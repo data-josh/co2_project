@@ -6,4 +6,4 @@
   #### 3. CO2 vs GDP Scatterplot (scatterplot)
   #### 4. CO2 Sources By Continent (bar chart) 
 
-###### *** Need to fix the dimensions to fit everything
+###### *** Working on fixing dimensions to see the entire visualization 
